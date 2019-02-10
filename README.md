@@ -16,4 +16,4 @@ The following API-endpoints are available:
 /mostnegative 
 /mostpositive
 
-You can see the results by using a browser such as Chrome, FireFox and so on, or use a program such as Postman (https://www.getpostman.com) to make the GET calls.
+You can see the results by using a browser such as Chrome, Firefox and so on, or use a program such as Postman (https://www.getpostman.com) to make the GET calls.
