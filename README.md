@@ -4,7 +4,7 @@ To run this project you need to have NodeJS installed (can be downloaded from th
 
 
 Git clone this project to your computer. Then, either in your terminal or IDE, run the command 'npm install' in the directory to install the missing modules required to run the project. Afterwards the API can be started by using the command 'node index.js' in the root of the project folder. If everything went well you should be greeted with a message saying we are up and running. 
-By default the project expects your Docker container to run locally, so if you are running it in a virtual mashine you need to change const dockerAdress = 'localhost' in index.js to the ip of your virtual mashine.
+By default the project expects your Docker container to run locally, so if you are running it in a virtual mashine you need to change 'localhost' in line 12 in index.js to the ip of your virtual mashine.
 
 
 The following API-endpoints are available:
