@@ -13,7 +13,7 @@ mongoose.connect('mongodb://localhost/TwitterDB',{ useNewUrlParser: true });
 
 db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', function() {
-  console.log('Ane we are live!');
+  console.log('And we are live!');
 });
 
 app.get('/', (req, res) => res.send('And here we... Go!'))
